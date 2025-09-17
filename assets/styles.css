@@ -2,5 +2,4 @@ body { }
 .navbar-brand { font-weight: 700; }
 .card-title { font-weight: 600; }
 footer small { letter-spacing: .3px; }
-
-
+#mapHome, #mapPassenger, #mapDriver { height: 380px; }
